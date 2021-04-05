@@ -29,15 +29,6 @@
     line-height: 24px;
 }
 
-.testimonial .content .testimonialBx h3{
-  
-    text-align: end;
-    color:red;
-    font-weight: 200;
-    line-height: 1.7em;
-    font-size: 20px;
-    font-style: italic;
-}
 
 h2{
     color:red;
@@ -98,5 +89,11 @@ h2{
         justify-content: space-between;
         align-items: center;
         flex-direction:column;
+    }
+
+    .testimonial .content .testimonialBx p{
+  
+       font-size: 10px;
+   
     }
 }
