@@ -1,0 +1,9 @@
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2f3f4;
+    top: 0;
+    z-index: 1;
+  }
+  

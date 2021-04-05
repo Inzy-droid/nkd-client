@@ -1,0 +1,73 @@
+
+.content{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.heading{
+    width:100%;
+    text-align: center;
+    margin-bottom: 30px;
+    color:#fff;
+}
+.heading p{
+    font-style: italic;
+    font-size:14px;
+}
+.h2{
+    padding-top:30px;
+    font-size: 3em;
+    color:red;
+}
+
+
+.services{
+    background: #111;
+    
+}
+
+.heading.white p {
+    color:#fff;
+}
+
+.services .content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.services .content .servicesBx{
+    color: #fff;
+    background:#161616;
+    padding:30px 15px;
+    max-width: 360px;
+    margin:10px 15px;
+    text-align: center;
+}
+
+.services .content .servicesBx:hover{
+    border-bottom:2px solid red;
+    cursor:pointer;
+}
+.services .content .servicesBx .fa{
+    margin-bottom: 10px;
+    color: red;
+}
+
+.services .content .servicesBx .serviceImg{
+    margin-bottom: 10px;
+   width: 300px;
+
+}
+
+.services .content .servicesBx h3{
+
+    color: red;
+}
+
+.services .content .servicesBx .icon {
+    margin-bottom: 10px;
+    color:red;
+    width: 100px;
+}

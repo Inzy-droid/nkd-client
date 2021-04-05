@@ -1,0 +1,30 @@
+.bannerpro {
+    width: 100%;
+    background-image: url(../images/extensions.jpg);
+    height: 500px;
+    background-position:center;
+    background-size: cover;
+    z-index: 0;
+  }
+
+.pro{
+    background-color: #111;
+    height: 100vh;
+    width: 100%;
+    padding: 3rem;
+}
+
+.proj {
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.slick-slide-title{
+    color: #fff;
+}
+
+
+
+
+
+ 

@@ -1,0 +1,32 @@
+.contactnew i{
+ color:red;
+ margin-left: 15px;
+ margin-right: 15px;
+ font-size: x-large;
+}
+
+.contactnew{
+    display: flex;
+    align-items: center;
+}
+
+.contactnew p{
+  align-items: center;
+  color: #fff;
+  font-size: 16px;
+}
+
+@media (max-width:600px){
+  .contactnew i{
+    color:red;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: large;
+   }
+
+   .contactnew p{
+    align-items: center;
+    color: #fff;
+    font-size: 12px;
+  }
+}

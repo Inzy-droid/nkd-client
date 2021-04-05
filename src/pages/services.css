@@ -1,0 +1,16 @@
+.bannerser {
+    width: 100%;
+    background-image: url(../images/loft.jpg);
+    height: 500px;
+    background-position:center;
+    background-size: cover;
+    z-index: 0;
+  }
+
+  .blogo{
+    
+    width: 200px;
+    border: 2px solid red;
+    margin: 2rem;
+    border-radius: 8px;
+}
